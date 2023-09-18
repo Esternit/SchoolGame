@@ -1,0 +1,14 @@
+Wavy Blade (Rare);0;-3;4;
+Collar Helmet (Rare);0;4;0;
+Doll wood (Rare);0;-2;7;
+Round Shield (Rare);0;5;0;
+Captain Amerika`s Shield (Rare);0;9;0;
+Shield of the Lion Order (Rare);0;6;0;
+Wand of the Serpent King (Epic);0;-1;12;
+Gladius of Titan (Epic);0;15;3;
+Inquisitor's Helmet (Epic);0;7;0;
+Steel Helmet With Visor (Epic);0;13;0;
+Omnisword (Epic);0;-1;10;
+Compressor shackles (Epic);0;14;0;
+Neon Sabers (Legendary);5;5;15;
+Unstable Cloak of Darkness (Legendary);23;14;3;

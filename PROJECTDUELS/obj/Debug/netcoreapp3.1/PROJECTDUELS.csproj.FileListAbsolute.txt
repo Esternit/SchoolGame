@@ -1,0 +1,13 @@
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\bin\Debug\netcoreapp3.1\PROJECTDUELS.exe
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\bin\Debug\netcoreapp3.1\PROJECTDUELS.deps.json
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\bin\Debug\netcoreapp3.1\PROJECTDUELS.runtimeconfig.json
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\bin\Debug\netcoreapp3.1\PROJECTDUELS.runtimeconfig.dev.json
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\bin\Debug\netcoreapp3.1\PROJECTDUELS.dll
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\bin\Debug\netcoreapp3.1\PROJECTDUELS.pdb
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\obj\Debug\netcoreapp3.1\PROJECTDUELS.csprojAssemblyReference.cache
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\obj\Debug\netcoreapp3.1\PROJECTDUELS.AssemblyInfoInputs.cache
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\obj\Debug\netcoreapp3.1\PROJECTDUELS.AssemblyInfo.cs
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\obj\Debug\netcoreapp3.1\PROJECTDUELS.csproj.CoreCompileInputs.cache
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\obj\Debug\netcoreapp3.1\PROJECTDUELS.dll
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\obj\Debug\netcoreapp3.1\PROJECTDUELS.pdb
+D:\Dima\ПРАКТИКИ\PROJECTDUELS\PROJECTDUELS\obj\Debug\netcoreapp3.1\PROJECTDUELS.genruntimeconfig.cache

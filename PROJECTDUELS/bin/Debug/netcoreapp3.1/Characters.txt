@@ -1,0 +1,12 @@
+Reinchart (Tank);50;14;6;
+Sigma (Tank);45;13;9;
+Zarya (Tank);40;11;7;
+DVA (Tank);50;13;6;
+Hammond (Tank);60;2;5;
+Machine-gunner (Tank);45;12;7;
+Berzerk (DPS);35;8;11;
+Junkrat (DPS);32;7;12;
+Bastion (DPS);30;4;15;
+Hanzo (DPS);31;4;14;
+Genji (DPS);35;3;10;
+Torbjorn (DPS);32;5;14;
